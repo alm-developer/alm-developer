@@ -1,6 +1,6 @@
 # 🚀 ¡Hola! Soy alm_developer
 
-Estudiante de programación y desarrollador apasionado por crear aplicaciones y videojuegos. Me impulsa la curiosidad de construir cosas desde cero y el desafío de entender cómo funcionan las cosas **por dentro**.
+Estudiante de programación y desarrollador apasionado por crear aplicaciones. Me impulsa la curiosidad de construir cosas desde cero y el desafío de entender cómo funcionan las cosas **por dentro**.
 
 ---
 
