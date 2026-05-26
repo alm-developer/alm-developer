@@ -16,7 +16,7 @@ Estudiante de programación y desarrollador apasionado por crear aplicaciones. M
 
 ### 💡 Sobre mi código
 
-En mis repositorios encontrarás comentarios **muy personales**. Son básicamente mis notas mentales, reflexiones, retos y lecciones de aprendizaje capturadas en tiempo real.
+En mis repositorios encontrarás comentarios **muy personales**. Son básicamente retos y lecciones de aprendizaje capturadas en tiempo real.
 
 Si algo te parece raro o confuso… ¡es parte de la experiencia! No dudes en abrir un **issue** si tienes alguna duda o sugerencia. Responderé lo antes posible.
 
