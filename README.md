@@ -1,24 +1,47 @@
 # 🚀 ¡Hola! Soy alm_developer
 
-Estudiante de programación y apasionado por el desarrollo de aplicaciones y videojuegos. Me muevo por la curiosidad de construir cosas funcionales y el reto de entender cómo funcionan "por dentro".
+Estudiante de programación y desarrollador apasionado por crear aplicaciones y videojuegos. Me impulsa la curiosidad de construir cosas desde cero y el desafío de entender cómo funcionan las cosas **por dentro**.
+
+---
 
 ### 🛠️ Mis Proyectos
-* **Proyecto 1:** [coming soon]
-* **Proyecto 2:** [coming soon]
-* **Proyecto 3:** [coming soon]
+
+- **Proyecto 1:** [coming soon]
+- **Proyecto 2:** [coming soon]
+- **Proyecto 3:** [coming soon]
+
+*(Pronto agregaré descripciones detalladas de cada uno)*
+
+---
 
 ### 💡 Sobre mi código
-Los comentarios que encontrarás en mis repositorios son de lo más **particulares**. Son mis notas mentales, retos y procesos de aprendizaje capturados en el código. Si encuentras algo extraño, ¡es parte de la experiencia! Cualquier inconveniente podras dejar isues y se te responderan en breves.
+
+En mis repositorios encontrarás comentarios **muy personales**. Son básicamente mis notas mentales, reflexiones, retos y lecciones de aprendizaje capturadas en tiempo real.
+
+Si algo te parece raro o confuso… ¡es parte de la experiencia! No dudes en abrir un **issue** si tienes alguna duda o sugerencia. Responderé lo antes posible.
 
 ---
 
-## 📜 Resumen de Licencia (Uso Educativo)
+## 📜 Licencia – Uso Educativo
 
-Para proteger mi trabajo mientras aprendo, todos mis repositorios utilizan una licencia de **Fuente Disponible No Comercial**. Aquí tienes lo que necesitas saber:
+Todos mis repositorios están bajo una **licencia de Fuente Disponible No Comercial**. Esto me permite proteger mi trabajo mientras sigo aprendiendo, al mismo tiempo que comparto conocimiento.
 
-* **✅ Puedes:** Usar, estudiar, modificar, "romper" y volver a montar el código para aprender o para tus proyectos personales no lucrativos.
-* **❌ No puedes:** Usar este código (o sus derivados) para fines comerciales, venderlo o lucrarte con él de ninguna forma.
-* **🆔 Autoría:** Debes mantener mi crédito (**alm_developer**) y no puedes reclamar la autoría del código original.
-* **⚠️ Responsabilidad:** El código se entrega "tal cual". No me hago responsable de cualquier fallo o daño derivado de su uso. Úsalo bajo tu propio riesgo con fines de aprendizaje.
+### ✅ **Puedes:**
+- Ver, estudiar, modificar y experimentar con el código
+- Usarlo en proyectos personales o educativos **no lucrativos**
+- Aprender y "romper" el código sin problema
+
+### ❌ **No puedes:**
+- Usar el código (ni derivados) con fines comerciales
+- Venderlo o monetizarlo de ninguna forma
+- Eliminar el crédito al autor original
+
+**Autoría:** Debes mantener visible el crédito a **alm_developer**.
+
+**Importante:** El código se proporciona "tal cual". No me hago responsable de cualquier problema derivado de su uso. Úsalo bajo tu propia responsabilidad.
 
 ---
+
+### ¡Gracias por visitar!
+
+Si te gusta lo que ves, no dudes en dar una estrella ⭐ o seguir mi progreso.
